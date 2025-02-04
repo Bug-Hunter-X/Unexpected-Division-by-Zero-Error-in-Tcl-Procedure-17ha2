@@ -1,0 +1,1 @@
+This repository demonstrates a subtle division-by-zero error that can occur in Tcl procedures when an unexpected condition leads to division by zero within an [expr] command. The bug.tcl file contains the erroneous code, while bugSolution.tcl provides a corrected version that handles potential zero division.
